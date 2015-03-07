@@ -7,10 +7,6 @@
 // BEGIN_FILE_DIR
 #define FILE_DIR .
 #define FILE_DIR "graphics"
-#define FILE_DIR "graphics/Menu"
-#define FILE_DIR "graphics/mineables"
-#define FILE_DIR "graphics/Vehicle"
-#define FILE_DIR "graphics/Vehicle/Raw"
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
